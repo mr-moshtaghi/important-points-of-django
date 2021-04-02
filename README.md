@@ -1,2 +1,2 @@
 # important-points-of-django
-نکات مهم جنگو
+نکات مهم و کاربردی جنگو
